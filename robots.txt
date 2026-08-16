@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-eltp2q.pusatradar88.cfd/sitemap.xml
